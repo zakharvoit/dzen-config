@@ -1,2 +1,2 @@
-$(/tmp/dzen/bspwm_pipe)
-$(/tmp/dzen/batt_pipe) ^fg(yellow)$(/tmp/dzen/date_pipe)
+$(/tmp/dzen/xmonad_pipe)
+^bg()^fg(blue)$(/tmp/dzen/gmusic_pipe) ^fg(green)$(/tmp/dzen/batt_pipe) ^fg(yellow)$(/tmp/dzen/date_pipe)
